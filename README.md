@@ -3,4 +3,4 @@ Employing Deep Learning (DL) technologies to solve Civil Engineering problems is
 
 
 ## Reference
-Gao Y, Kong B, Mos- alam KM. Deep leaf-bootstrapping generative adversarial network for structural image data aug- mentation. Comput Aided Civ Inf. 2019;1–19. https://doi.org/10.1111/mice.12458
+Gao Y, Kong B, Mosalam KM. Deep leaf-bootstrapping generative adversarial network for structural image data aug- mentation. Comput Aided Civ Inf. 2019;1–19. https://doi.org/10.1111/mice.12458
